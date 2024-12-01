@@ -1,0 +1,38 @@
+/* General Styles */
+header {
+    background: url('server-header-bg.jpg') center/cover no-repeat;
+    color: white;
+    padding: 100px 0;
+    text-align: center;
+}
+
+#features img {
+    width: 80px;
+    margin-bottom: 15px;
+}
+
+
+/* General Styles for About Page */
+.team-member img {
+    width: 150px;
+    height: 150px;
+    object-fit: cover;
+    border-radius: 50%;
+    margin-bottom: 15px;
+}
+
+.team-member h5 {
+    font-size: 1.2rem;
+    margin-top: 10px;
+}
+
+.team-member p {
+    font-size: 0.9rem;
+    color: #555;
+}
+
+
+footer {
+    background-color: #222;
+    padding: 20px;
+}
